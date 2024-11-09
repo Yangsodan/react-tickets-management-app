@@ -1,0 +1,19 @@
+*/node_modules/
+*/.expo/
+*/dist/
+*/npm-debug.*
+*/web-build/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# macOS
+.DS_Store
+
+expo-env.d.ts
+# @end expo-cli
+
+.vscode/
