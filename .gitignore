@@ -1,8 +1,8 @@
-*/node_modules/
-*/.expo/
-*/dist/
-*/npm-debug.*
-*/web-build/
+node_modules/
+.expo/
+dist/
+npm-debug.*
+web-build/
 *.jks
 *.p8
 *.p12
@@ -15,5 +15,11 @@
 
 expo-env.d.ts
 # @end expo-cli
+
+#dev
+.env.local
+
+#Next.js
+.next
 
 .vscode/

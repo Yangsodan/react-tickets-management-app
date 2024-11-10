@@ -6,6 +6,7 @@ export const commonStyle = StyleSheet.create({
     marginHorizontal: 15,
     marginBottom: 10,
     borderRadius: 10,
+    borderWidth: 1,
     shadowColor: "#000",
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.25,
